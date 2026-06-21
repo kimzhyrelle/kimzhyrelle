@@ -38,13 +38,13 @@ I've always wanted to learn how to code and program, and that curiosity has grow
 
 <div align="center">
 
-** Languages & Tools **
+**Languages & Tools**
 
 <img src="https://skillicons.dev/icons?i=html,css,js,java,python,php,xd,figma,flask,vscode,mysql&theme=dark" />
 
 <br/><br/>
 
-** Currently Exploring **
+**Currently Exploring**
 
 <img src="https://img.shields.io/badge/-Python-2d2d2d?style=for-the-badge&logo=python&logoColor=white&labelColor=2d2d2d"/>
 <img src="https://img.shields.io/badge/-PHP-2d2d2d?style=for-the-badge&logo=php&logoColor=white&labelColor=2d2d2d"/>
